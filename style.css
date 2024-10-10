@@ -12,7 +12,6 @@ body{
 .container{
     width: 100%;
     min-height: 100vh;
-    /* background-color: lightslategray(135deg, #a1bef8, #cc78e1); */
      background-color:  #95aedf;
      padding: 10px;
 }
